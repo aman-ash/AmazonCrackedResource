@@ -1,10 +1,6 @@
 # Take the Amazon Cracked Challenge Today!!
 
-> **Connect with a Community of over 30,000 Coders**
-> [![GitHub KushalVijay](https://img.shields.io/github/followers/KushalVijay?label=follow&style=social)](https://github.com/KushalVijay)
-> ![](https://img.shields.io/youtube/channel/subscribers/UCOZMPD9TMk0C4yipWBaPZ7w?label=Follow%20Savage%20Programmer&style=social)
-> [![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushaalvijay/)](https://www.linkedin.com/in/kushalvijay/)
-> [![Twitter: Kushal Vijay](https://img.shields.io/twitter/follow/KushalVijay_?style=social)](https://twitter.com/KushalVijay_)
+> **Connect with a Community of over 30,000 Coders** > [![GitHub KushalVijay](https://img.shields.io/github/followers/KushalVijay?label=follow&style=social)](https://github.com/KushalVijay) > ![](https://img.shields.io/youtube/channel/subscribers/UCOZMPD9TMk0C4yipWBaPZ7w?label=Follow%20Savage%20Programmer&style=social) > [![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushaalvijay/)](https://www.linkedin.com/in/kushalvijay/) > [![Twitter: Kushal Vijay](https://img.shields.io/twitter/follow/KushalVijay_?style=social)](https://twitter.com/KushalVijay_)
 
 ## Enter the Challenge
 
@@ -28,18 +24,18 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 > **Problems for Week 1**
 
-| Problem Link                                                                                                                              | Status | Difficulty |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                     |        | Medium     |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                       |        |            |
-| [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                         |        |            |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                                                     |        |            |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                     |        |            |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                               |        |            |
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                     |        |            |
-| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |        |            |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                   |        |            |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                           |        |            |
+| Problem Link                                                                                                                              | Status        | Difficulty |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                     | Done ✅       | Medium     |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                       | In Progress🕓 |            |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                         |               |            |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)                                                     |               |            |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                                     |               |            |
+| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                               |               |            |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                     |               |            |
+| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |               |            |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                                   |               |            |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                           |               |            |
 
 ---
 
